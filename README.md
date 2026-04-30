@@ -54,4 +54,4 @@ The original MODIS HDF granules are hundreds of MB each and are not included her
 
 ## Author
 
-Elena Savidge.
+Elena Savidge
